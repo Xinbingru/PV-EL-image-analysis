@@ -1,0 +1,14 @@
+ipython==8.12.3
+ipywidgets==8.1.2
+matplotlib==3.7.5
+numpy==1.24.4
+opencv_python==4.10.0.84
+pandas==2.0.3
+Pillow==9.5.0
+Pillow==10.4.0
+pv_vision==0.2.7
+scipy==1.14.1
+segment_anything==1.0
+streamlit==1.38.0
+torch==2.3.0
+tqdm==4.66.2
